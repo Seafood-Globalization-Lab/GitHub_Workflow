@@ -34,14 +34,28 @@ If you haven't done so already please create a [Github account](https://github.c
 
 ## Getting Updates to a Repository
 
-To get the most up to date code and data living in the repository, GitHub has a feature called Pull. This will 'pull' all the changes made in the remote copy of the repository into your local computer copy of the repository.
+To get the most up to date code and data living in the repository, GitHub has a feature called "Pull". This will 'pull' all the changes made in the remote copy of the repository into your local computer copy of the repository.
 
 1. Open GitHub Desktop
 2. Navigate and click the Current Repository drop down (on the top right hand side)
-<img alt="Navigate to current repo drop down" src="imgs/current_repo_drop_down.png" width="300">
+<img alt="Navigate to current repo drop down" src="imgs/current_repo_drop_down.png" width="300"><br>
 3. Select the repository you want to update
 <img alt="select pull repo" src="imgs/select_pull_repo.png" width="300"><br>
 4. Navigate and click Repository --> Pull
+<img alt="Pull repo drop down" src="imgs/repository_to_pull_drop_down.png" width="300">
+
+## Submitting Updates to a Repository
+
+To post your own updates to code, data, or other documents in a repository, GitHub has a feature called "Push". This will 'push' all the changes you have made in your local computer copy of the repository to the remote copy of the repository.
+
+1. Open GitHub Desktop
+2. Navigate and click the Current Repository drop down (on the top right hand side)
+<img alt="Navigate to current repo drop down" src="imgs/current_repo_drop_down.png" width="300"><br>
+3. Select the repository you want to update
+<img alt="select pull repo" src="imgs/select_pull_repo.png" width="300"><br>
+4. Write a description of the changes made in the commit box(bottom right)
+ <img alt="github desktop commit box" src="imgs/github_desktop_commit_box.png" width="300"><br>
+5. Navigate and click Repository --> Push
 <img alt="Pull repo drop down" src="imgs/repository_to_pull_drop_down.png" width="300">
 
 ## FAQs
