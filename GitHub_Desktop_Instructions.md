@@ -50,13 +50,15 @@ To post your own updates to code, data, or other documents in a repository, GitH
 
 1. Open GitHub Desktop
 2. Navigate and click the Current Repository drop down (on the top right hand side)
-<img alt="Navigate to current repo drop down" src="imgs/current_repo_drop_down.png" width="300"><br>
+<br><img alt="Navigate to current repo drop down" src="imgs/current_repo_drop_down.png" width="300"><br>
 3. Select the repository you want to update
-<img alt="select pull repo" src="imgs/select_pull_repo.png" width="300"><br>
-4. Write a description of the changes made in the commit box(bottom right)
- <img alt="github desktop commit box" src="imgs/github_desktop_commit_box.png" width="300"><br>
-5. Navigate and click Repository --> Push
-<img alt="Pull repo drop down" src="imgs/repository_to_pull_drop_down.png" width="300">
+<br><img alt="select pull repo" src="imgs/select_pull_repo.png" width="300"><br>
+4. Write a description of the changes made in the commit summary box (bottom right and to the right of the image, example below has "Update Github_Desktop_Instruct" as the summary of changes)
+<br><img alt="github desktop commit box" src="imgs/github_desktop_commit_box.png" width="300"><br>
+5. Click the commit to main button
+<br><img alt="commit button github desktop" src="imgs/commit_btn_github_desktop.png" width="300">
+6. Navigate and click Repository --> Push
+<br><img alt="Pull repo drop down" src="imgs/repository_to_pull_drop_down.png" width="300">
 
 ## FAQs
 - What is a repository?
