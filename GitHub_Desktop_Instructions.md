@@ -36,6 +36,8 @@ If you haven't done so already please create a [Github account](https://github.c
 
 To get the most up to date code and data living in the repository, GitHub has a feature called "Pull". This will 'pull' all the changes made in the remote copy of the repository into your local computer copy of the repository.
 
+**Note:** ALWAYS pull changes before working on any files in your local repository.
+
 1. Open GitHub Desktop
 2. Navigate and click the Current Repository drop down (on the top right hand side)
 <br><img alt="Navigate to current repo drop down" src="imgs/current_repo_drop_down.png" width="300"><br>
