@@ -48,6 +48,8 @@ To get the most up to date code and data living in the repository, GitHub has a 
 
 To post your own updates to code, data, or other documents in a repository, GitHub has a feature called "Push". This will 'push' all the changes you have made in your local computer copy of the repository to the remote copy of the repository.
 
+**Note:** ALWAYS make sure to pull changes before pushing to the remote repository.
+
 1. Open GitHub Desktop
 2. Navigate and click the Current Repository drop down (on the top right hand side)
 <br><img alt="Navigate to current repo drop down" src="imgs/current_repo_drop_down.png" width="300"><br>
