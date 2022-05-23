@@ -11,18 +11,31 @@ If you haven't done so already please create a [Github account](https://github.c
 1. Navigate to [Seafood Globalization Lab](https://github.com/Seafood-Globalization-Lab) GitHub website.
 2. Find and click on the repository that you will be working with.
 3. Click on the green code button on the left hand side of the screen.
-![Green GitHub Cloning Repository Button](/imgs/green_clone_repo_btn.png)
-4. Copy the link provided under the HTTPS tab of the drop down menu that appears
-![Clone Repo Drop Down Menu](/imgs/clone_repo_drop_down_menu.png)
+<img alt="Green GitHub Cloning Repository Button" src="imgs/green_clone_repo_btn.png" width = "300">
+
+4. Copy the link provided under the HTTPS tab of the drop down menu that appears.
+
+<img alt="Clone Repo Drop Down Menu" src="imgs/clone_repo_drop_down_menu.png" width = "300">
+
 5. Open GitHub Desktop
 6. Navigate to File --> Clone Repository.
-![File to clone repo drop down](imgs/file_to_clone_repo_drop_down.png)
+<img alt="File to clone repo drop down" src="imgs/file_to_clone_repo_drop_down.png" width = "300">
+
 7. Paste Repository URL into URL field.
-![Paste clone repo url](/imgs/paste_clone_repo_url.png)
+<img alt="Paste clone repo url" src="imgs/paste_clone_repo_url.png" width="300">
+
 8. Choose where you want this folder to live on your computer.
-![browse repo location on local computer](imgs/browse_repo_local_location.png)
+<img alt="browse repo location on local computer" src="imgs/browse_repo_local_location.png" width="300">
 9. Click Clone (This might take a few moments if the folder is particularly large, but for most cases will take just a few seconds).
-![GitHub Desktop Clone Repo Button](imgs/github_desktop_clone_repo_btn.png)
+
+<img alt="GitHub Desktop Clone Repo Button"  src="imgs/github_desktop_clone_repo_btn.png" width="300">
+
+## Getting Updates to a Repository
+
+1. Open GitHub Desktop
+2. Navigate and click the Current Repository drop down (on the top right hand side)
+
+<img src="imgs/current_repo_drop_down.png" width="300">
 
 ## FAQs
 - What is a repository?
