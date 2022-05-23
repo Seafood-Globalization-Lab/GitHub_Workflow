@@ -38,9 +38,9 @@ To get the most up to date code and data living in the repository, GitHub has a 
 
 1. Open GitHub Desktop
 2. Navigate and click the Current Repository drop down (on the top right hand side)
-<img alt="Navigate to current repo drop down" src="imgs/current_repo_drop_down.png" width="300"><br>
+<br><img alt="Navigate to current repo drop down" src="imgs/current_repo_drop_down.png" width="300"><br>
 3. Select the repository you want to update
-<img alt="select pull repo" src="imgs/select_pull_repo.png" width="300"><br>
+<br><img alt="select pull repo" src="imgs/select_pull_repo.png" width="300"><br>
 4. Navigate and click Repository --> Pull
 <img alt="Pull repo drop down" src="imgs/repository_to_pull_drop_down.png" width="300">
 
